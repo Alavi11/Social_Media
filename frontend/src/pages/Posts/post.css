@@ -1,0 +1,60 @@
+.post-editor-right{
+     width: 60%;
+}
+
+.post-editor-left{
+     width: 40%;
+}
+
+.textarea{
+     height: 200px;
+}
+
+.single-title{
+     color: #c2a800 !important;
+}
+
+.ql-editor{
+     text-align: right;
+     height: 300px;
+}
+
+.ql-snow .ql-picker:not(.ql-color-picker):not(.ql-icon-picker) svg{
+     right: -15px;
+}
+
+.ql-editor li:not(.ql-direction-rtl)::before {
+    margin-left: -0.5em;
+    margin-right: 1.3em;
+    text-align: right;
+}
+
+.single-desc h1{
+     font-size: 1.9em;
+     color: whitesmoke;
+}
+.single-desc h2{
+     font-size: 1.4em;
+     color: whitesmoke;
+}
+.single-desc h3{
+     font-size: 1.17em;
+     color: whitesmoke;
+}
+
+.single-desc p{
+     font-size: 18px;
+}
+
+.single-desc strong{
+     color: rgb(199, 199, 199);
+}
+
+.single-desc a{
+     color: rgb(157, 200, 235);
+}
+
+.single-desc ol, .single-desc ul{
+     margin-left: 0;
+     margin-right: 40px;
+}
